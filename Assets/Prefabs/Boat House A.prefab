@@ -46,14 +46,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbd3e66d8d5be4a4aa0d7a875875d56b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 6
-  steeringSpeed: 4.5
-  maxForce: 0.1
-  neighborhoodRadius: 4
-  separationRadius: 2.4
-  separationAmount: 1.1
-  cohesionAmount: 0.3
-  alignmentAmount: 0.5
 --- !u!135 &8576074011543180583
 SphereCollider:
   m_ObjectHideFlags: 0

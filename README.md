@@ -7,7 +7,7 @@ Je me suis inspiré de [ce projet](https://github.com/RafaelKuebler/Flocking) po
 J'ai commencé par importer des modèles 3D de bateaux.
 J'ai créé 2~3 [Prefab](https://docs.unity3d.com/6000.2/Documentation/Manual/Prefabs.html) mais je me retrouve face à plusieurs problèmes et j'aurais besoin de ton coup de mains !
 
-**:information_source:  Tu peux déjà commencer par te créer une version de mon projet en [forkant](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=webui#forking-a-repository) 👉 [mon repo](https://github.com/romainPechot/Model-Boat-Club-Simulator).**
+**:information_source: Tu peux déjà commencer par te créer une version de mon projet en [forkant](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=webui#forking-a-repository) 👉 [mon repo](https://github.com/romainPechot/Model-Boat-Club-Simulator).**
 **:information_source: Pourrais-tu `commit` à chaque fois que tu a complété une étape et tu m'enverra le lien de ton repo github une fois fini ?**
 **:information_source: Si tu peux mettre un commentaire à chaque commit et à chaque "ligne/bloc" de code histoire que je ne sois pas perdu?**
 **:information_source: Si tu peux modifier seulement les lignes de code que tu estime nécessaire ? Pas de gros copier/coller venant d'internet s'il te plait :expressionless: sauf si tu sais ce que tu fais (et que tu me l'explique en commentaire).**
